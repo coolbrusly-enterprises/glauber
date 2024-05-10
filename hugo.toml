@@ -1,0 +1,4 @@
+baseURL = 'https://glauber.blog/'
+languageCode = 'pt-BR'
+title = 'todas as vidas dos glaubi mais maluco do mundo'
+theme = 'tailwind'
